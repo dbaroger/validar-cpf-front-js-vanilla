@@ -1,4 +1,4 @@
-const URL="https://itau-turma6c-roger.herokuapp.com/validacpf?cpf="
+const URL="https://turma6c-itau-roger.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
